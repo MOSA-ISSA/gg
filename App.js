@@ -22,7 +22,7 @@ const App = () => {
               I am vengeance
             </Text>
             <Text style={text.baseText}>
-              ??/??/????
+              ??/??/??
             </Text>
           </View>
 
